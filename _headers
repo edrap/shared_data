@@ -1,2 +1,8 @@
 ./fsc_33_merged.tif
   Access-Control-Allow-Origin: *
+
+./gfsc_33_merged.tif
+  Access-Control-Allow-Origin: *
+
+./HSN24.tif
+  Access-Control-Allow-Origin: *
